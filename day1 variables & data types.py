@@ -15,9 +15,39 @@
 # print(name2)
 # print(name3)
 
-age = 21
-old = False
-a = None
+# age = 21
+# old = False
+# a = None
 
-print(age)
-print(old)
+# print(age)
+# print(old)
+
+# a = 1000 
+# b = 500
+# diff = a - b
+# print(diff)
+
+# print("hello world")
+# """
+# # print("hello world") comment out. 
+# multi-line comment 
+# """
+
+# arithmetic operators 
+a = 5 
+b = 2
+
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
+
+# relational operators 
+a = 50 
+b = 20 
+
+print(a == b) 
+#false 
+
