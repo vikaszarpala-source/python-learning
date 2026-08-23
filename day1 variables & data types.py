@@ -34,20 +34,35 @@
 # """
 
 # arithmetic operators 
-a = 5 
-b = 2
+# a = 5 
+# b = 2
 
 
-print(a+b)
-print(a-b)
-print(a*b)
-print(a/b)
-print(a//b)
+# print(a+b)
+# print(a-b)
+# print(a*b)
+# print(a/b)
+# print(a//b)
 
-# relational operators 
-a = 50 
-b = 20 
+# # relational operators 
+# a = 50 
+# b = 20 
 
-print(a == b) 
-#false 
+# print(a == b) 
+# #false 
 
+# a = 50 
+# b = 20
+
+# print(a == b) #false
+# print(a != b) #true
+# print (a >= b) #true
+# print(a <= b) #false
+# print(a < b)#false
+ 
+# num = 10
+# num =+ 10
+# print("num :", num)
+
+print(not False)
+print(not True)
