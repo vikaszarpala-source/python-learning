@@ -1,13 +1,10 @@
-text = "Python"
-print(text[::-1])
+# name = input("Enter your name: ")
 
+# print("Hello", name)
+# print("Your name has", len(name), "characters")
+# print("Uppercase:", name.upper())
+# # print("Reversed:", name[::-1])
 
-text = "Hello World"
-print(len(text))
-
-text = "I love Python"
-
-if "Python" in text:
-    print("Python is present")
-else:
-    print("Python is not present")
+text = "hello world"
+text = text.replace("vikas", "zarpala")
+print(text)
